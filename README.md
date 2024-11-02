@@ -1,2 +1,2 @@
-# SL (super-link) connection tool
+# SL (fiber-link) connection tool
 SSH-based TCP connection to upload/download files
